@@ -2,7 +2,7 @@
 
 An interactive **R Shiny** website about study-location choices among 55 respondents to the STA304H5F survey at UTM. Prepared by **Luai's Fan Club** for the **website checkpoint due November 27, 2026**.
 
-**Public app URL:** https://01a20540-86df-4364-eec0-d203808b44c4.share.connect.posit.cloud/
+**Public app URL:** https://01a20bc9-1da1-f8d7-76c2-a97b353e93a5.share.connect.posit.cloud/
 
 ## Files
 
